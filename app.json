@@ -1,0 +1,12 @@
+{
+  "name": "Lab5",
+  "displayName": "Lab5",
+  "expo": {
+    "name": "Lab5",
+    "slug": "Lab5",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
